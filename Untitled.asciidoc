@@ -1,0 +1,178 @@
++*In[1]:*+
+[source, ipython3]
+----
+print("hello world")
+----
+
+
++*Out[1]:*+
+----
+hello world
+----
+
+
++*In[2]:*+
+[source, ipython3]
+----
+print("Hi")
+----
+
+
++*Out[2]:*+
+----
+Hi
+----
+
+
++*In[3]:*+
+[source, ipython3]
+----
+2*40
+----
+
+
++*Out[3]:*+
+----80----
+
+
++*In[4]:*+
+[source, ipython3]
+----
+a is 10
+b is 10
+a is b
+----
+
+
++*Out[4]:*+
+----
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-4-db94115555be> in <module>
+    ----> 1 a is 10
+          2 b is 10
+          3 a is b
+    
+
+    NameError: name 'a' is not defined
+
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+a = 10 
+b = 10
+a==b
+----
+
+
++*Out[7]:*+
+----True----
+
+we learned that from -5 to 256 it gives original value but when it goes
+beyond to it it shows erors
+
+
++*In[10]:*+
+[source, ipython3]
+----
+10<9
+----
+
+
++*Out[10]:*+
+----False----
+
+
++*In[11]:*+
+[source, ipython3]
+----
+9>10
+----
+
+
++*Out[11]:*+
+----False----
+
+
++*In[12]:*+
+[source, ipython3]
+----
+25/9
+----
+
+
++*Out[12]:*+
+----2.7777777777777777----
+
+
++*In[13]:*+
+[source, ipython3]
+----
+25//9
+----
+
+
++*Out[13]:*+
+----2----
+
+
++*In[14]:*+
+[source, ipython3]
+----
+2**40
+
+----
+
+
++*Out[14]:*+
+----1099511627776----
+
+
++*In[15]:*+
+[source, ipython3]
+----
+48/9
+----
+
+
++*Out[15]:*+
+----5.333333333333333----
+
+
++*In[16]:*+
+[source, ipython3]
+----
+48//9
+----
+
+
++*Out[16]:*+
+----5----
+
+we learned floor sign and numbers and syntax and variables. we also
+learned about using interrupt which continuously gives running of code
+in a continuous order
+
+
++*In[21]:*+
+[source, ipython3]
+----
+26/8
+----
+
+
++*Out[21]:*+
+----3.25----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
